@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 👀 I am Full Stack Developer. I have passion for coding and learning new technologies
 
-🌱 I’m developing for this Tech stack: Node JS (MEAN), React JS, Vue JS, PHP (LAMP), Word press, Drupal, Apostrophe CMS, mobile app built with React Native (RN) and AWS microservices 
+🌱 I’m developing for this Tech stack: Node JS (MEAN), React JS, Vue JS, PHP (LAMP), Word press, Drupal, Apostrophe CMS, mobile apps built with React Native (RN) and AWS microservices 
 
 💞️ I’m wiling to collaborate on new promising platforms and startups
 
