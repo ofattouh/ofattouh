@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 👀 I am Full Stack Developer. I have passion for coding and learning new technologies. 
 
-Heighlights:
+<b>Heighlights:</b>
 
 🌱 Tech stack: NodeJS (MEAN), React Native(RN), ReactJS, VueJS, PHP (LAMP), MongoDB, MySQL, Word Press, Drupal, Apostrophe CMS and AWS Microservices 
 
