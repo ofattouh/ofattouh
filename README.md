@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <b>Heighlights:</b>
 
-🌱 Tech stack: NodeJS (MEAN), React Native(RN), ReactJS, VueJS, PHP (LAMP), MongoDB, MySQL, Word Press, Drupal, Apostrophe CMS and AWS Microservices 
+🌱 <b>Tech Stack:</b> NodeJS (MEAN), React Native(RN), ReactJS, VueJS, PHP (LAMP), MongoDB, MySQL, Word Press, Drupal, Apostrophe CMS and AWS Microservices 
 
 💞️ Looking to collaborate on promising platforms and startups
 
