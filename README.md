@@ -4,12 +4,14 @@ ofattouh/ofattouh is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m Omar :) Git Hub Handle: @ofattouh
+👋 Hi, 
 
-👀 I am Full Stack Developer. I have passion for coding and learning new technologies
+👀 I am Full Stack Developer. I have passion for coding and learning new technologies. 
 
-🌱 I’m developing for this Tech stack: Node JS (MEAN), React JS, Vue JS, PHP (LAMP), Word press, Drupal, Apostrophe CMS, mobile apps built with React Native (RN) and AWS microservices 
+Heighlights:
 
-💞️ I’m wiling to collaborate on new promising platforms and startups
+🌱 Tech stack: NodeJS (MEAN), React Native(RN), ReactJS, VueJS, PHP (LAMP), MongoDB, MySQL, Word Press, Drupal, Apostrophe CMS and AWS Microservices 
+
+💞️ Looking to collaborate on promising platforms and startups
 
 📫 You can reach me at: ofattouh@gmail.com
